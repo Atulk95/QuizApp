@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 "2.This is the second question",
                 "3.This is the third question",
                 "4.This is the fourth question",
-                "5.This is the fifth question   "
+                "5.This is the fifth Quetgtygtgd "
         };
         String options[][] = {
                 { "java", "python", "c", "c#" },
